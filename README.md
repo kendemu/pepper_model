@@ -12,4 +12,5 @@ Requirements : ROS Groovy or higher (Tested in ROS Indigo)
 	      
 
  To Execute the file,
- $ roslaunch /path/to/pepper_model/launch/display_kendemu.launch model:=/path/to/pepper_model/urdf/pepper_robot_model.urdf
+ $ cd /path/to/pepper_model
+ $ roslaunch $(pwd)/launch/display_kendemu.launch model:=$(pwd)/urdf/pepper_robot_model.urdf
