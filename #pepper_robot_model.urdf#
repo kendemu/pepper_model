@@ -12,7 +12,7 @@
     <visual>
       <origin xyz="0 0 0" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="file://~/pepper_model/juliette/Torso.dae" scale="0.001 0.001 0.001"/>
+        <mesh filename="file://~/pepper_model/juliette/DVT/visual/Torso.dae" scale="0.001 0.001 0.001"/>
       </geometry>
       <material name="LightGrey"/>
     </visual>
@@ -24,7 +24,7 @@
     <collision>
       <origin xyz="0 0 0" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="file://~/pepper_model/juliette/Torso.dae" scale="0.001 0.001 0.001"/>
+        <mesh filename="file://~/pepper_model/juliette/DVT/visual/Torso.dae" scale="0.001 0.001 0.001"/>
       </geometry>
       <material name="LightGrey"/>
     </collision>
@@ -33,7 +33,7 @@
     <visual>
       <origin xyz="0 0 0" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="file://~/pepper_model/juliette/HeadYaw.dae" scale="0.001 0.001 0.001"/>
+        <mesh filename="file://~/pepper_model/juliette/DVT/visual/HeadYaw.dae" scale="0.001 0.001 0.001"/>
       </geometry>
       <material name="LightGrey"/>
     </visual>
@@ -45,7 +45,7 @@
     <collision>
       <origin xyz="0 0 0" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="file://~/pepper_model/juliette/HeadYaw.dae" scale="0.001 0.001 0.001"/>
+        <mesh filename="file://~/pepper_model/juliette/DVT/visual/HeadYaw.dae" scale="0.001 0.001 0.001"/>
       </geometry>
       <material name="LightGrey"/>
     </collision>
@@ -54,7 +54,7 @@
     <visual>
       <origin xyz="0 0 0" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="file://~/pepper_model/juliette/HeadPitch.dae" scale="0.001 0.001 0.001"/>
+        <mesh filename="file://~/pepper_model/juliette/DVT/visual/HeadPitch.dae" scale="0.001 0.001 0.001"/>
       </geometry>
       <material name="LightGrey"/>
     </visual>
@@ -66,7 +66,7 @@
     <collision>
       <origin xyz="0 0 0" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="file:/~/pepper_model/juliette/HeadPitch.dae" scale="0.001 0.001 0.001"/>
+        <mesh filename="file:/~/pepper_model/juliette/DVT/visual/HeadPitch.dae" scale="0.001 0.001 0.001"/>
       </geometry>
       <material name="LightGrey"/>
     </collision>
@@ -75,7 +75,7 @@
     <visual>
       <origin xyz="0 0 0" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="file://~/pepper_model/juliette/LShoulderPitch.dae" scale="0.001 0.001 0.001"/>
+        <mesh filename="file://~/pepper_model/juliette/DVT/visual/LShoulderPitch.dae" scale="0.001 0.001 0.001"/>
       </geometry>
       <material name="LightGrey"/>
     </visual>
@@ -87,7 +87,7 @@
     <collision>
       <origin xyz="0 0 0" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="file://~/pepper_model/juliette/LShoulderPitch.dae" scale="0.001 0.001 0.001"/>
+        <mesh filename="file://~/pepper_model/juliette/DVT/visual/LShoulderPitch.dae" scale="0.001 0.001 0.001"/>
       </geometry>
       <material name="LightGrey"/>
     </collision>
@@ -96,7 +96,7 @@
     <visual>
       <origin xyz="0 0 0" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="file://~/pepper_model/juliette/LShoulderRoll.dae" scale="0.001 0.001 0.001"/>
+        <mesh filename="file://~/pepper_model/juliette/DVT/visual/LShoulderRoll.dae" scale="0.001 0.001 0.001"/>
       </geometry>
       <material name="LightGrey"/>
     </visual>
@@ -108,7 +108,7 @@
     <collision>
       <origin xyz="0 0 0" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="file://~/pepper_model/juliette/LShoulderRoll.dae" scale="0.001 0.001 0.001"/>
+        <mesh filename="file://~/pepper_model/juliette/DVT/visual/LShoulderRoll.dae" scale="0.001 0.001 0.001"/>
       </geometry>
       <material name="LightGrey"/>
     </collision>
@@ -117,7 +117,7 @@
     <visual>
       <origin xyz="0 0 0" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="file://~/pepper_model/juliette/LElbowYaw.dae" scale="0.001 0.001 0.001"/>
+        <mesh filename="file://~/pepper_model/juliette/DVT/visual/LElbowYaw.dae" scale="0.001 0.001 0.001"/>
       </geometry>
       <material name="LightGrey"/>
     </visual>
@@ -129,7 +129,7 @@
     <collision>
       <origin xyz="0 0 0" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="file://~/pepper_model/juliette/LElbowYaw.dae" scale="0.001 0.001 0.001"/>
+        <mesh filename="file://~/pepper_model/juliette/DVT/visual/LElbowYaw.dae" scale="0.001 0.001 0.001"/>
       </geometry>
       <material name="LightGrey"/>
     </collision>
@@ -138,7 +138,7 @@
     <visual>
       <origin xyz="0 0 0" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="file://~/pepper_model/juliette/LElbowRoll.dae" scale="0.001 0.001 0.001"/>
+        <mesh filename="file://~/pepper_model/juliette/DVT/visual/LElbowRoll.dae" scale="0.001 0.001 0.001"/>
       </geometry>
       <material name="LightGrey"/>
     </visual>
@@ -150,7 +150,7 @@
     <collision>
       <origin xyz="0 0 0" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="file:///opt/Aldebaran/Choregraphe Suite 2.0/share/alrobotmodel/meshes/juliette/LElbowRoll.dae" scale="0.001 0.001 0.001"/>
+        <mesh filename="file:///opt/Aldebaran/Choregraphe Suite 2.0/share/alrobotmodel/meshes/juliette/DVT/LElbowRoll.dae" scale="0.001 0.001 0.001"/>
       </geometry>
       <material name="LightGrey"/>
     </collision>
@@ -159,7 +159,7 @@
     <visual>
       <origin xyz="0 0 0" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="file://~/pepper_model/juliette/LWristYaw.dae" scale="0.001 0.001 0.001"/>
+        <mesh filename="file:///opt/Aldebaran/Choregraphe Suite 2.0/share/alrobotmodel/meshes/juliette/DVT/LWristYaw.dae" scale="0.001 0.001 0.001"/>
       </geometry>
       <material name="LightGrey"/>
     </visual>
@@ -171,7 +171,7 @@
     <collision>
       <origin xyz="0 0 0" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="file://~/pepper_model/juliette/LWristYaw.dae" scale="0.001 0.001 0.001"/>
+        <mesh filename="file:///opt/Aldebaran/Choregraphe Suite 2.0/share/alrobotmodel/meshes/juliette/DVT/LWristYaw.dae" scale="0.001 0.001 0.001"/>
       </geometry>
       <material name="LightGrey"/>
     </collision>
@@ -180,7 +180,7 @@
     <visual>
       <origin xyz="0 0 0" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="file://~/pepper_model/juliette/Phalax.dae" scale="0.001 0.001 0.001"/>
+        <mesh filename="file:///opt/Aldebaran/Choregraphe Suite 2.0/share/alrobotmodel/meshes/juliette/Phalax.dae" scale="0.001 0.001 0.001"/>
       </geometry>
       <material name="LightGrey"/>
     </visual>
@@ -192,7 +192,7 @@
     <collision>
       <origin xyz="0 0 0" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="file://~/pepper_model/juliette/Phalax.dae" scale="0.001 0.001 0.001"/>
+        <mesh filename="file:///opt/Aldebaran/Choregraphe Suite 2.0/share/alrobotmodel/meshes/juliette/Phalax.dae" scale="0.001 0.001 0.001"/>
       </geometry>
       <material name="LightGrey"/>
     </collision>
@@ -201,7 +201,7 @@
     <visual>
       <origin xyz="0 0 0" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="file://~/pepper_model/juliette/Phalax.dae" scale="0.001 0.001 0.001"/>
+        <mesh filename="file:///opt/Aldebaran/Choregraphe Suite 2.0/share/alrobotmodel/meshes/juliette/Phalax.dae" scale="0.001 0.001 0.001"/>
       </geometry>
       <material name="LightGrey"/>
     </visual>
@@ -213,16 +213,16 @@
     <collision>
       <origin xyz="0 0 0" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="file://~/pepper_model/juliette/Phalax.dae" scale="0.001 0.001 0.001"/>
+        <mesh filename="file:///opt/Aldebaran/Choregraphe Suite 2.0/share/alrobotmodel/meshes/juliette/Phalax.dae" scale="0.001 0.001 0.001"/>
       </geometry>
       <material name="LightGrey"/>
     </collision>
   </link>
   <link name="LFinger13Link">
-    <visual>%
+    <visual>
       <origin xyz="0 0 0" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="file://~/pepper_model/juliette/PhalaxEnd.dae" scale="0.001 0.001 0.001"/>
+        <mesh filename="file:///opt/Aldebaran/Choregraphe Suite 2.0/share/alrobotmodel/meshes/juliette/PhalaxEnd.dae" scale="0.001 0.001 0.001"/>
       </geometry>
       <material name="LightGrey"/>
     </visual>
@@ -234,7 +234,7 @@
     <collision>
       <origin xyz="0 0 0" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="file://~/pepper_model/juliette/PhalaxEnd.dae" scale="0.001 0.001 0.001"/>
+        <mesh filename="file:///opt/Aldebaran/Choregraphe Suite 2.0/share/alrobotmodel/meshes/juliette/PhalaxEnd.dae" scale="0.001 0.001 0.001"/>
       </geometry>
       <material name="LightGrey"/>
     </collision>
@@ -243,7 +243,7 @@
     <visual>
       <origin xyz="0 0 0" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="file://~/pepper_model/juliette/Phalax.dae" scale="0.001 0.001 0.001"/>
+        <mesh filename="file:///opt/Aldebaran/Choregraphe Suite 2.0/share/alrobotmodel/meshes/juliette/Phalax.dae" scale="0.001 0.001 0.001"/>
       </geometry>
       <material name="LightGrey"/>
     </visual>
@@ -255,7 +255,7 @@
     <collision>
       <origin xyz="0 0 0" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="file://~/pepper_model/juliette/Phalax.dae" scale="0.001 0.001 0.001"/>
+        <mesh filename="file:///opt/Aldebaran/Choregraphe Suite 2.0/share/alrobotmodel/meshes/juliette/Phalax.dae" scale="0.001 0.001 0.001"/>
       </geometry>
       <material name="LightGrey"/>
     </collision>
@@ -264,7 +264,7 @@
     <visual>
       <origin xyz="0 0 0" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="file://~/pepper_model/juliette/Phalax.dae" scale="0.001 0.001 0.001"/>
+        <mesh filename="file:///opt/Aldebaran/Choregraphe Suite 2.0/share/alrobotmodel/meshes/juliette/Phalax.dae" scale="0.001 0.001 0.001"/>
       </geometry>
       <material name="LightGrey"/>
     </visual>
@@ -276,7 +276,7 @@
     <collision>
       <origin xyz="0 0 0" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="file://~/pepper_model/juliette/Phalax.dae" scale="0.001 0.001 0.001"/>
+        <mesh filename="file:///opt/Aldebaran/Choregraphe Suite 2.0/share/alrobotmodel/meshes/juliette/Phalax.dae" scale="0.001 0.001 0.001"/>
       </geometry>
       <material name="LightGrey"/>
     </collision>
@@ -285,7 +285,7 @@
     <visual>
       <origin xyz="0 0 0" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="file://~/pepper_model/juliette/PhalaxEnd.dae" scale="0.001 0.001 0.001"/>
+        <mesh filename="file:///opt/Aldebaran/Choregraphe Suite 2.0/share/alrobotmodel/meshes/juliette/PhalaxEnd.dae" scale="0.001 0.001 0.001"/>
       </geometry>
       <material name="LightGrey"/>
     </visual>
@@ -297,7 +297,7 @@
     <collision>
       <origin xyz="0 0 0" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="file://~/pepper_model/juliette/PhalaxEnd.dae" scale="0.001 0.001 0.001"/>
+        <mesh filename="file:///opt/Aldebaran/Choregraphe Suite 2.0/share/alrobotmodel/meshes/juliette/PhalaxEnd.dae" scale="0.001 0.001 0.001"/>
       </geometry>
       <material name="LightGrey"/>
     </collision>
@@ -306,7 +306,7 @@
     <visual>
       <origin xyz="0 0 0" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="file://~/pepper_model/juliette/Phalax.dae" scale="0.001 0.001 0.001"/>
+        <mesh filename="file:///opt/Aldebaran/Choregraphe Suite 2.0/share/alrobotmodel/meshes/juliette/Phalax.dae" scale="0.001 0.001 0.001"/>
       </geometry>
       <material name="LightGrey"/>
     </visual>
@@ -318,7 +318,7 @@
     <collision>
       <origin xyz="0 0 0" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="file://~/pepper_model/juliette/Phalax.dae" scale="0.001 0.001 0.001"/>
+        <mesh filename="file:///opt/Aldebaran/Choregraphe Suite 2.0/share/alrobotmodel/meshes/juliette/Phalax.dae" scale="0.001 0.001 0.001"/>
       </geometry>
       <material name="LightGrey"/>
     </collision>
@@ -327,7 +327,7 @@
     <visual>
       <origin xyz="0 0 0" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="file://~/pepper_model/juliette/Phalax.dae" scale="0.001 0.001 0.001"/>
+        <mesh filename="file:///opt/Aldebaran/Choregraphe Suite 2.0/share/alrobotmodel/meshes/juliette/Phalax.dae" scale="0.001 0.001 0.001"/>
       </geometry>
       <material name="LightGrey"/>
     </visual>
@@ -339,7 +339,7 @@
     <collision>
       <origin xyz="0 0 0" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="file://~/pepper_model/juliette/Phalax.dae" scale="0.001 0.001 0.001"/>
+        <mesh filename="file:///opt/Aldebaran/Choregraphe Suite 2.0/share/alrobotmodel/meshes/juliette/Phalax.dae" scale="0.001 0.001 0.001"/>
       </geometry>
       <material name="LightGrey"/>
     </collision>
@@ -348,7 +348,7 @@
     <visual>
       <origin xyz="0 0 0" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="file://~/pepper_model/juliette/PhalaxEnd.dae" scale="0.001 0.001 0.001"/>
+        <mesh filename="file:///opt/Aldebaran/Choregraphe Suite 2.0/share/alrobotmodel/meshes/juliette/PhalaxEnd.dae" scale="0.001 0.001 0.001"/>
       </geometry>
       <material name="LightGrey"/>
     </visual>
@@ -360,7 +360,7 @@
     <collision>
       <origin xyz="0 0 0" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="file://~/pepper_model/juliette/PhalaxEnd.dae" scale="0.001 0.001 0.001"/>
+        <mesh filename="file:///opt/Aldebaran/Choregraphe Suite 2.0/share/alrobotmodel/meshes/juliette/PhalaxEnd.dae" scale="0.001 0.001 0.001"/>
       </geometry>
       <material name="LightGrey"/>
     </collision>
@@ -369,7 +369,7 @@
     <visual>
       <origin xyz="0 0 0" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="file://~/pepper_model/juliette/Phalax.dae" scale="0.001 0.001 0.001"/>
+        <mesh filename="file:///opt/Aldebaran/Choregraphe Suite 2.0/share/alrobotmodel/meshes/juliette/Phalax.dae" scale="0.001 0.001 0.001"/>
       </geometry>
       <material name="LightGrey"/>
     </visual>
@@ -381,7 +381,7 @@
     <collision>
       <origin xyz="0 0 0" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="file://~/pepper_model/juliette/Phalax.dae" scale="0.001 0.001 0.001"/>
+        <mesh filename="file:///opt/Aldebaran/Choregraphe Suite 2.0/share/alrobotmodel/meshes/juliette/Phalax.dae" scale="0.001 0.001 0.001"/>
       </geometry>
       <material name="LightGrey"/>
     </collision>
@@ -390,7 +390,7 @@
     <visual>
       <origin xyz="0 0 0" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="file://~/pepper_model/juliette/Phalax.dae" scale="0.001 0.001 0.001"/>
+        <mesh filename="file:///opt/Aldebaran/Choregraphe Suite 2.0/share/alrobotmodel/meshes/juliette/Phalax.dae" scale="0.001 0.001 0.001"/>
       </geometry>
       <material name="LightGrey"/>
     </visual>
@@ -402,7 +402,7 @@
     <collision>
       <origin xyz="0 0 0" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="file://~/pepper_model/juliette/Phalax.dae" scale="0.001 0.001 0.001"/>
+        <mesh filename="file:///opt/Aldebaran/Choregraphe Suite 2.0/share/alrobotmodel/meshes/juliette/Phalax.dae" scale="0.001 0.001 0.001"/>
       </geometry>
       <material name="LightGrey"/>
     </collision>
@@ -411,7 +411,7 @@
     <visual>
       <origin xyz="0 0 0" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="file://~/pepper_model/juliette/PhalaxEnd.dae" scale="0.001 0.001 0.001"/>
+        <mesh filename="file:///opt/Aldebaran/Choregraphe Suite 2.0/share/alrobotmodel/meshes/juliette/PhalaxEnd.dae" scale="0.001 0.001 0.001"/>
       </geometry>
       <material name="LightGrey"/>
     </visual>
@@ -423,7 +423,7 @@
     <collision>
       <origin xyz="0 0 0" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="file://~/pepper_model/juliette/PhalaxEnd.dae" scale="0.001 0.001 0.001"/>
+        <mesh filename="file:///opt/Aldebaran/Choregraphe Suite 2.0/share/alrobotmodel/meshes/juliette/PhalaxEnd.dae" scale="0.001 0.001 0.001"/>
       </geometry>
       <material name="LightGrey"/>
     </collision>
@@ -432,7 +432,7 @@
     <visual>
       <origin xyz="0 0 0" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="file://~/pepper_model/juliette/Phalax.dae" scale="0.001 0.001 0.001"/>
+        <mesh filename="file:///opt/Aldebaran/Choregraphe Suite 2.0/share/alrobotmodel/meshes/juliette/Phalax.dae" scale="0.001 0.001 0.001"/>
       </geometry>
       <material name="LightGrey"/>
     </visual>
@@ -444,7 +444,7 @@
     <collision>
       <origin xyz="0 0 0" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="file://~/pepper_model/juliette/Phalax.dae" scale="0.001 0.001 0.001"/>
+        <mesh filename="file:///opt/Aldebaran/Choregraphe Suite 2.0/share/alrobotmodel/meshes/juliette/Phalax.dae" scale="0.001 0.001 0.001"/>
       </geometry>
       <material name="LightGrey"/>
     </collision>
@@ -453,7 +453,7 @@
     <visual>
       <origin xyz="0 0 0" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="file://~/pepper_model/juliette/PhalaxEnd.dae" scale="0.001 0.001 0.001"/>
+        <mesh filename="file:///opt/Aldebaran/Choregraphe Suite 2.0/share/alrobotmodel/meshes/juliette/PhalaxEnd.dae" scale="0.001 0.001 0.001"/>
       </geometry>
       <material name="LightGrey"/>
     </visual>
@@ -465,7 +465,7 @@
     <collision>
       <origin xyz="0 0 0" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="file://~/pepper_model/juliette/PhalaxEnd.dae" scale="0.001 0.001 0.001"/>
+        <mesh filename="file:///opt/Aldebaran/Choregraphe Suite 2.0/share/alrobotmodel/meshes/juliette/PhalaxEnd.dae" scale="0.001 0.001 0.001"/>
       </geometry>
       <material name="LightGrey"/>
     </collision>
@@ -474,7 +474,7 @@
     <visual>
       <origin xyz="0 0 0" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="file://~/pepper_model/juliette/HipRoll.dae" scale="0.001 0.001 0.001"/>
+        <mesh filename="file:///opt/Aldebaran/Choregraphe Suite 2.0/share/alrobotmodel/meshes/juliette/DVT/HipRoll.dae" scale="0.001 0.001 0.001"/>
       </geometry>
       <material name="LightGrey"/>
     </visual>
@@ -486,7 +486,7 @@
     <collision>
       <origin xyz="0 0 0" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="file://~/pepper_model/juliette/HipRoll.dae" scale="0.001 0.001 0.001"/>
+        <mesh filename="file:///opt/Aldebaran/Choregraphe Suite 2.0/share/alrobotmodel/meshes/juliette/DVT/HipRoll.dae" scale="0.001 0.001 0.001"/>
       </geometry>
       <material name="LightGrey"/>
     </collision>
@@ -495,7 +495,7 @@
     <visual>
       <origin xyz="0 0 0" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="file://~/pepper_model/juliette/HipPitch.dae" scale="0.001 0.001 0.001"/>
+        <mesh filename="file:///opt/Aldebaran/Choregraphe Suite 2.0/share/alrobotmodel/meshes/juliette/DVT/HipPitch.dae" scale="0.001 0.001 0.001"/>
       </geometry>
       <material name="LightGrey"/>
     </visual>
@@ -507,7 +507,7 @@
     <collision>
       <origin xyz="0 0 0" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="file://~/pepper_model/juliette/HipPitch.dae" scale="0.001 0.001 0.001"/>
+        <mesh filename="file:///opt/Aldebaran/Choregraphe Suite 2.0/share/alrobotmodel/meshes/juliette/DVT/HipPitch.dae" scale="0.001 0.001 0.001"/>
       </geometry>
       <material name="LightGrey"/>
     </collision>
@@ -516,7 +516,7 @@
     <visual>
       <origin xyz="0 0 0" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="file://~/pepper_model/juliette/KneePitch.dae" scale="0.001 0.001 0.001"/>
+        <mesh filename="file:///opt/Aldebaran/Choregraphe Suite 2.0/share/alrobotmodel/meshes/juliette/DVT/KneePitch.dae" scale="0.001 0.001 0.001"/>
       </geometry>
       <material name="LightGrey"/>
     </visual>
@@ -528,7 +528,7 @@
     <collision>
       <origin xyz="0 0 0" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="file://~/pepper_model/juliette/KneePitch.dae" scale="0.001 0.001 0.001"/>
+        <mesh filename="file:///opt/Aldebaran/Choregraphe Suite 2.0/share/alrobotmodel/meshes/juliette/DVT/KneePitch.dae" scale="0.001 0.001 0.001"/>
       </geometry>
       <material name="LightGrey"/>
     </collision>
@@ -537,7 +537,7 @@
     <visual>
       <origin xyz="0 0 0" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="file://~/pepper_model/juliette/RShoulderPitch.dae" scale="0.001 0.001 0.001"/>
+        <mesh filename="file:///opt/Aldebaran/Choregraphe Suite 2.0/share/alrobotmodel/meshes/juliette/DVT/RShoulderPitch.dae" scale="0.001 0.001 0.001"/>
       </geometry>
       <material name="LightGrey"/>
     </visual>
@@ -549,7 +549,7 @@
     <collision>
       <origin xyz="0 0 0" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="file://~/pepper_model/juliette/RShoulderPitch.dae" scale="0.001 0.001 0.001"/>
+        <mesh filename="file:///opt/Aldebaran/Choregraphe Suite 2.0/share/alrobotmodel/meshes/juliette/DVT/RShoulderPitch.dae" scale="0.001 0.001 0.001"/>
       </geometry>
       <material name="LightGrey"/>
     </collision>
@@ -558,7 +558,7 @@
     <visual>
       <origin xyz="0 0 0" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="file://~/pepper_model/juliette/RShoulderRoll.dae" scale="0.001 0.001 0.001"/>
+        <mesh filename="file:///opt/Aldebaran/Choregraphe Suite 2.0/share/alrobotmodel/meshes/juliette/DVT/RShoulderRoll.dae" scale="0.001 0.001 0.001"/>
       </geometry>
       <material name="LightGrey"/>
     </visual>
@@ -570,7 +570,7 @@
     <collision>
       <origin xyz="0 0 0" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="file://~/pepper_model/juliette/RShoulderRoll.dae" scale="0.001 0.001 0.001"/>
+        <mesh filename="file:///opt/Aldebaran/Choregraphe Suite 2.0/share/alrobotmodel/meshes/juliette/DVT/RShoulderRoll.dae" scale="0.001 0.001 0.001"/>
       </geometry>
       <material name="LightGrey"/>
     </collision>
@@ -579,7 +579,7 @@
     <visual>
       <origin xyz="0 0 0" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="file://~/pepper_model/juliette/RElbowYaw.dae" scale="0.001 0.001 0.001"/>
+        <mesh filename="file:///opt/Aldebaran/Choregraphe Suite 2.0/share/alrobotmodel/meshes/juliette/DVT/RElbowYaw.dae" scale="0.001 0.001 0.001"/>
       </geometry>
       <material name="LightGrey"/>
     </visual>
@@ -591,7 +591,7 @@
     <collision>
       <origin xyz="0 0 0" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="file://~/pepper_model/juliette/RElbowYaw.dae" scale="0.001 0.001 0.001"/>
+        <mesh filename="file:///opt/Aldebaran/Choregraphe Suite 2.0/share/alrobotmodel/meshes/juliette/DVT/RElbowYaw.dae" scale="0.001 0.001 0.001"/>
       </geometry>
       <material name="LightGrey"/>
     </collision>
@@ -600,7 +600,7 @@
     <visual>
       <origin xyz="0 0 0" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="file://~/pepper_model/juliette/RElbowRoll.dae" scale="0.001 0.001 0.001"/>
+        <mesh filename="file:///opt/Aldebaran/Choregraphe Suite 2.0/share/alrobotmodel/meshes/juliette/DVT/RElbowRoll.dae" scale="0.001 0.001 0.001"/>
       </geometry>
       <material name="LightGrey"/>
     </visual>
@@ -612,7 +612,7 @@
     <collision>
       <origin xyz="0 0 0" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="file://~/pepper_model/juliette/RElbowRoll.dae" scale="0.001 0.001 0.001"/>
+        <mesh filename="file:///opt/Aldebaran/Choregraphe Suite 2.0/share/alrobotmodel/meshes/juliette/DVT/RElbowRoll.dae" scale="0.001 0.001 0.001"/>
       </geometry>
       <material name="LightGrey"/>
     </collision>
@@ -621,7 +621,7 @@
     <visual>
       <origin xyz="0 0 0" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="file://~/pepper_model/juliette/RWristYaw.dae" scale="0.001 0.001 0.001"/>
+        <mesh filename="file:///opt/Aldebaran/Choregraphe Suite 2.0/share/alrobotmodel/meshes/juliette/DVT/RWristYaw.dae" scale="0.001 0.001 0.001"/>
       </geometry>
       <material name="LightGrey"/>
     </visual>
@@ -633,7 +633,7 @@
     <collision>
       <origin xyz="0 0 0" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="file://~/pepper_model/juliette/RWristYaw.dae" scale="0.001 0.001 0.001"/>
+        <mesh filename="file:///opt/Aldebaran/Choregraphe Suite 2.0/share/alrobotmodel/meshes/juliette/DVT/RWristYaw.dae" scale="0.001 0.001 0.001"/>
       </geometry>
       <material name="LightGrey"/>
     </collision>
@@ -642,7 +642,7 @@
     <visual>
       <origin xyz="0 0 0" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="file://~/pepper_model/juliette/Phalax.dae" scale="0.001 0.001 0.001"/>
+        <mesh filename="file:///opt/Aldebaran/Choregraphe Suite 2.0/share/alrobotmodel/meshes/juliette/Phalax.dae" scale="0.001 0.001 0.001"/>
       </geometry>
       <material name="LightGrey"/>
     </visual>
@@ -654,7 +654,7 @@
     <collision>
       <origin xyz="0 0 0" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="file://~/pepper_model/juliette/Phalax.dae" scale="0.001 0.001 0.001"/>
+        <mesh filename="file:///opt/Aldebaran/Choregraphe Suite 2.0/share/alrobotmodel/meshes/juliette/Phalax.dae" scale="0.001 0.001 0.001"/>
       </geometry>
       <material name="LightGrey"/>
     </collision>
@@ -663,7 +663,7 @@
     <visual>
       <origin xyz="0 0 0" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="file://~/pepper_model/juliette/Phalax.dae" scale="0.001 0.001 0.001"/>
+        <mesh filename="file:///opt/Aldebaran/Choregraphe Suite 2.0/share/alrobotmodel/meshes/juliette/Phalax.dae" scale="0.001 0.001 0.001"/>
       </geometry>
       <material name="LightGrey"/>
     </visual>
@@ -675,7 +675,7 @@
     <collision>
       <origin xyz="0 0 0" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="file://~/pepper_model/juliette/Phalax.dae" scale="0.001 0.001 0.001"/>
+        <mesh filename="file:///opt/Aldebaran/Choregraphe Suite 2.0/share/alrobotmodel/meshes/juliette/Phalax.dae" scale="0.001 0.001 0.001"/>
       </geometry>
       <material name="LightGrey"/>
     </collision>
@@ -684,7 +684,7 @@
     <visual>
       <origin xyz="0 0 0" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="file://~/pepper_model/juliette/PhalaxEnd.dae" scale="0.001 0.001 0.001"/>
+        <mesh filename="file:///opt/Aldebaran/Choregraphe Suite 2.0/share/alrobotmodel/meshes/juliette/PhalaxEnd.dae" scale="0.001 0.001 0.001"/>
       </geometry>
       <material name="LightGrey"/>
     </visual>
@@ -696,7 +696,7 @@
     <collision>
       <origin xyz="0 0 0" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="file://~/pepper_model/juliette/PhalaxEnd.dae" scale="0.001 0.001 0.001"/>
+        <mesh filename="file:///opt/Aldebaran/Choregraphe Suite 2.0/share/alrobotmodel/meshes/juliette/PhalaxEnd.dae" scale="0.001 0.001 0.001"/>
       </geometry>
       <material name="LightGrey"/>
     </collision>
@@ -705,7 +705,7 @@
     <visual>
       <origin xyz="0 0 0" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="file://~/pepper_model/juliette/Phalax.dae" scale="0.001 0.001 0.001"/>
+        <mesh filename="file:///opt/Aldebaran/Choregraphe Suite 2.0/share/alrobotmodel/meshes/juliette/Phalax.dae" scale="0.001 0.001 0.001"/>
       </geometry>
       <material name="LightGrey"/>
     </visual>
@@ -717,7 +717,7 @@
     <collision>
       <origin xyz="0 0 0" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="file://~/pepper_model/juliette/Phalax.dae" scale="0.001 0.001 0.001"/>
+        <mesh filename="file:///opt/Aldebaran/Choregraphe Suite 2.0/share/alrobotmodel/meshes/juliette/Phalax.dae" scale="0.001 0.001 0.001"/>
       </geometry>
       <material name="LightGrey"/>
     </collision>
@@ -726,7 +726,7 @@
     <visual>
       <origin xyz="0 0 0" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="file://~/pepper_model/juliette/Phalax.dae" scale="0.001 0.001 0.001"/>
+        <mesh filename="file:///opt/Aldebaran/Choregraphe Suite 2.0/share/alrobotmodel/meshes/juliette/Phalax.dae" scale="0.001 0.001 0.001"/>
       </geometry>
       <material name="LightGrey"/>
     </visual>
@@ -738,7 +738,7 @@
     <collision>
       <origin xyz="0 0 0" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="file://~/pepper_model/juliette/Phalax.dae" scale="0.001 0.001 0.001"/>
+        <mesh filename="file:///opt/Aldebaran/Choregraphe Suite 2.0/share/alrobotmodel/meshes/juliette/Phalax.dae" scale="0.001 0.001 0.001"/>
       </geometry>
       <material name="LightGrey"/>
     </collision>
@@ -747,7 +747,7 @@
     <visual>
       <origin xyz="0 0 0" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="file://~/pepper_model/juliette/PhalaxEnd.dae" scale="0.001 0.001 0.001"/>
+        <mesh filename="file:///opt/Aldebaran/Choregraphe Suite 2.0/share/alrobotmodel/meshes/juliette/PhalaxEnd.dae" scale="0.001 0.001 0.001"/>
       </geometry>
       <material name="LightGrey"/>
     </visual>
@@ -759,7 +759,7 @@
     <collision>
       <origin xyz="0 0 0" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="file://~/pepper_model/juliette/PhalaxEnd.dae" scale="0.001 0.001 0.001"/>
+        <mesh filename="file:///opt/Aldebaran/Choregraphe Suite 2.0/share/alrobotmodel/meshes/juliette/PhalaxEnd.dae" scale="0.001 0.001 0.001"/>
       </geometry>
       <material name="LightGrey"/>
     </collision>
@@ -768,7 +768,7 @@
     <visual>
       <origin xyz="0 0 0" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="file://~/pepper_model/juliette/Phalax.dae" scale="0.001 0.001 0.001"/>
+        <mesh filename="file:///opt/Aldebaran/Choregraphe Suite 2.0/share/alrobotmodel/meshes/juliette/Phalax.dae" scale="0.001 0.001 0.001"/>
       </geometry>
       <material name="LightGrey"/>
     </visual>
@@ -780,7 +780,7 @@
     <collision>
       <origin xyz="0 0 0" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="file://~/pepper_model/juliette/Phalax.dae" scale="0.001 0.001 0.001"/>
+        <mesh filename="file:///opt/Aldebaran/Choregraphe Suite 2.0/share/alrobotmodel/meshes/juliette/Phalax.dae" scale="0.001 0.001 0.001"/>
       </geometry>
       <material name="LightGrey"/>
     </collision>
@@ -969,7 +969,7 @@
     <collision>
       <origin xyz="0 0 0" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="file://~/pepper_model/juliette/juliette/WheelFL.dae" scale="0.001 0.001 0.001"/>
+        <mesh filename="file://~/pepper_model/juliette//WheelFL.dae" scale="0.001 0.001 0.001"/>
       </geometry>
       <material name="LightGrey"/>
     </collision>
@@ -978,7 +978,7 @@
     <visual>
       <origin xyz="0 0 0" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="file://~/pepper_model/juliette/juliette/WheelFR.dae" scale="0.001 0.001 0.001"/>
+        <mesh filename="file://~/pepper_model/juliette/visual/WheelFR.dae" scale="0.001 0.001 0.001"/>
       </geometry>
       <material name="LightGrey"/>
     </visual>
@@ -990,7 +990,7 @@
     <collision>
       <origin xyz="0 0 0" rpy="0 -0 0"/>
       <geometry>
-        <mesh filename="file://~/pepper_model/juliette/juliette/WheelFR.dae" scale="0.001 0.001 0.001"/>
+        <mesh filename="file://~/pepper_model/juliette/visual/WheelFR.dae" scale="0.001 0.001 0.001"/>
       </geometry>
       <material name="LightGrey"/>
     </collision>
@@ -1249,6 +1249,32 @@
     <axis xyz="0.656581 0.687342 0.310582"/>
   </joint>
   <joint name="RThumb2" type="continuous">
+    <parent link="RThumb1Link"/>
+    <child link="RThumb2Link"/>
+    <origin xyz="0.022 0 0" rpy="4.37113e-08 1.0472 7.57103e-08"/>
+    <axis xyz="0 -1 -4.37114e-08"/>
+  </joint>
+  <joint name="WheelB" type="continuous">
+    <parent link="KneePitchLink"/>
+    <child link="WheelBLink"/>
+    <origin xyz="-0.17 0 -0.264" rpy="0 -0 3.14159"/>
+    <axis xyz="1 0 -4.37114e-08"/>
+  </joint>
+  <joint name="WheelFL" type="continuous">
+    <parent link="KneePitchLink"/>
+    <child link="WheelFLLink"/>
+    <origin xyz="0.09 0.155 -0.264" rpy="0 -0 1.07517"/>
+    <axis xyz="-0.47558 -0.879673 -4.37114e-08"/>
+  </joint>
+  <joint name="WheelFR" type="continuous">
+    <parent link="KneePitchLink"/>
+    <child link="WheelFRLink"/>
+    <origin xyz="0.09 -0.155 -0.264" rpy="-0 -0 -1.07517"/>
+    <axis xyz="-0.47558 0.879673 -4.37114e-08"/>
+  </joint>
+
+</robot>
+ type="continuous">
     <parent link="RThumb1Link"/>
     <child link="RThumb2Link"/>
     <origin xyz="0.022 0 0" rpy="4.37113e-08 1.0472 7.57103e-08"/>
